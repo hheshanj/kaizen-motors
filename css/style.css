@@ -1,0 +1,236 @@
+/* Reset / Base */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #010c18;
+  color: #0d1b2a;
+  line-height: 1.6;
+}
+
+header {
+ background: rgba(13, 27, 42, 0.6);
+  color: #faf8f8;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000; /* make sure it sits on top */
+ 
+}
+
+header h1 {
+  font-weight: 700;
+  font-family: Montserrat;
+}
+
+.header-name {
+    text-decoration: none;
+    color: #fdfbfb;
+
+
+}
+
+
+
+nav a {
+  color: #fcfbfb;
+  text-decoration: none;
+  margin-left: 20px;
+  font-weight: 500;
+  transition: color 0.3s;
+}
+
+nav a:hover {
+  color: #1ac0c6;
+  transform: scaleY(1.05);
+}
+
+.hero {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero img {
+  width: 150%;
+  height: 150%;
+  object-fit: cover;
+  filter: brightness(0.4);
+}
+
+.hero-text {
+  position: absolute;
+  color: #fff;
+  text-align: center;
+}
+
+.hero-text h2 {
+  background: linear-gradient(90deg, #71b2b4, #acdbff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 3rem;
+  margin: 0px;
+
+  
+}
+
+.hero-text p {
+  font-size: 1.2em;
+  margin: 0px;
+}
+
+.hero-text .btn {
+  display: inline-block;
+  background: #1b6ca8;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: background 0.3s;
+}
+
+.hero-text .btn:hover {
+  background: #1ac0c6;
+}
+
+main {
+  padding:0x;
+  margin: 0px
+}
+
+h2 {
+  color: #1b6ca8;
+  margin-bottom: 20px;
+  font-size: 2rem;
+}
+
+.cta-section {
+  background: #0f1418;
+  color: #ffffff;
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.cta-section h3 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+  color: #1ac0c6;
+}
+
+.cta-section p {
+  font-size: 1.2rem;
+  margin-bottom: 30px;
+}
+
+.cta-section .btn {
+  background: #148b8f;
+  color: #ffffff;
+  padding: 12px 30px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: background 0.3s;
+}
+
+.cta-section .btn:hover {
+  background: #0d1b2a;
+}
+
+
+form {
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 500px;
+  margin: auto;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+form label {
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+form input,
+form textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+form button {
+  background: #1b6ca8;
+  color: #fff;
+  border: none;
+  padding: 12px;
+  border-radius: 4px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+form button:hover {
+  background: #1ac0c6;
+}
+
+#car-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.car {
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  transition: transform 0.3s;
+}
+
+.car:hover {
+  transform: scale(1.05);
+}
+
+.car img {
+  max-width: 100%;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+
+footer {
+  background: #0d1b2a;
+  color: #fff;
+  text-align: center;
+  padding: 15px;
+  margin-top:0px;
+}
+
+footer p{
+  display: inline
+}
+
+.contact
+{
+  float: right;
+  
+}
+
+.bs a{
+  margin: 10px;
+}
