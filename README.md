@@ -7,7 +7,7 @@ This repository contains the source code and documentation for **Kaizen Motors**
 ## 🌐 Website Information
 
 - **Website Name:** Kaizen Motors
-- **Full URL:** [http://www.kaizenmotors.hhjdev.xyz](http://www.kaizenmotors.hhjdev.xyz)
+- **Full URL:** [http://www.kaizenmotors.hhjdev.xyz]([[http://www.kaizenmotors.hhjdev.xyz](https://kaizenmotors.hhjdev.xyz/index.html)
 
 ---
 
