@@ -1,13 +1,13 @@
 # Kaizen Motors
 
-This repository contains the source code and documentation for **Kaizen Motors**, a website project created as part of the **Web Hosting assignment**.
+This repository contains the source code and documentation for **Kaizen Motors**, a website project developed as part of the **Web Hosting assignment** for the Networking and its Fundamentals module.
 
 ---
 
 ## 🌐 Website Information
 
-- **Website Name:** Kaizen Motors 
-- **Full URL:** [http://www.kaizenmotors.com](#)
+- **Website Name:** Kaizen Motors
+- **Full URL:** [http://www.kaizenmotors.hhjdev.xyz](http://www.kaizenmotors.hhjdev.xyz)
 
 ---
 
@@ -15,49 +15,55 @@ This repository contains the source code and documentation for **Kaizen Motors**
 
 The purpose of this website is to demonstrate the key steps involved in web hosting, including:
 
-- Selecting a domain name
-- Comparing hosting plans
+- Selecting and registering a domain name
+- Comparing different hosting plans
 - Publishing a website on GitHub Pages
 - Documenting the process and justifications
-- simply do the assessment in network module
+- Completing practical assessment requirements in the Networking module
 
 ---
 
 ## 📦 Components Needed to Host the Website
 
-- **Domain Name**: The unique address used to access the website.
-- **Web Hosting Service**: Stores the website files and makes them accessible online.
-- **Website Files**: HTML, CSS, images, and other resources.
-- **DNS Configuration**: Connects the domain name to the web hosting service.
-- **Control Panel**: Interface to manage hosting settings and domains.
+- **Domain Name**: A unique web address that identifies the website.
+- **Web Hosting Service**: Stores website files and delivers them online.
+- **Website Files**: HTML, CSS, images, and other website assets.
+- **DNS Configuration**: Connects the domain name to the web hosting server.
+- **Control Panel**: A web interface to manage domains, emails, files, and server settings.
 
 ---
 
 ## 📊 Hosting Plan Comparison
 
-| Feature            | Hostinger         | GoDaddy           | Bluehost          |
-|-------------------|-------------------|------------------|------------------|
-| Price (monthly)    | $2.99             | $5.99             | $4.95            |
-| Storage            | 50 GB SSD         | 100 GB            | 50 GB SSD        |
-| Free Domain        | Yes (1 year)      | Yes (1 year)      | Yes (1 year)     |
-| SSL Certificate    | Free              | Free              | Free             |
-| Support            | 24/7 Chat         | 24/7 Phone        | 24/7 Chat        |
+| Feature            | Hostinger         | GoDaddy           | Spaceship          |
+|--------------------|-------------------|-------------------|--------------------|
+| Price (monthly)    | $2.69             | $6.99             | $1.21              |
+| Storage            | 50 GB SSD         | 100 GB HDD/SSD    | 50 GB SSD          |
+| Free Domain        | Yes (1 year)      | Yes (1 year)      | Yes (1 year)       |
+| SSL Certificate    | Free              | Free              | Free               |
+| Support            | 24/7 Live Chat    | 24/7 Phone & Chat | 24/7 Live Chat     |
 
-*Details explained in the assignment documentation.*
+*Detailed explanations are provided in the assignment documentation.*
 
 ---
 
 ## ✅ Selected Plan and Justification
 
-After comparing multiple hosting services, **Hostinger** was selected due to its affordability, included domain, and storage required for our database
+After comparing multiple hosting providers, **Spaceship** was selected due to its affordability, decent feature set, and the one-month free hosting included with domain registration. This made it the best choice for demonstrating web hosting concepts while minimizing cost for the assignment.
 
 ---
 
 ## 📚 References
 
+- Hostinger. (2025). *Web Hosting Services*. Available at: [https://www.hostinger.com/web-hosting](https://www.hostinger.com/web-hosting) [Accessed 10 July 2025].
 
-- Hostinger. (2025). *Web Hosting Services*. Available at: https://www.hostinger.com/web-hosting
+- GoDaddy. (2025). *Web Hosting Plans*. Available at: [https://www.godaddy.com/web-hosting](https://www.godaddy.com/web-hosting) [Accessed 10 July 2025].
 
+- Spaceship. (2025). *Web Hosting*. Available at: [https://spaceship.com/hosting](https://spaceship.com/hosting) [Accessed 10 July 2025].
+
+- GitHub. (2025). *GitHub Pages Documentation*. Available at: [https://docs.github.com/en/pages](https://docs.github.com/en/pages) [Accessed 10 July 2025].
+
+- Hack The Box Academy. (2025). *Introduction to Web Applications*. Available at: [https://academy.hackthebox.com/module/details/56](https://academy.hackthebox.com/module/details/56) [Accessed 10 July 2025].
 
 *(Harvard referencing used in the main documentation.)*
 
@@ -65,15 +71,14 @@ After comparing multiple hosting services, **Hostinger** was selected due to its
 
 ## 🏁 Hack The Box Module
 
-Completed the **Introduction to Web Applications** module on Hack The Box Academy as part of the practical requirement.
+Completed the **Introduction to Web Applications** module on Hack The Box Academy as part of the practical requirements for the Networking and its Fundamentals module.
 
 ---
 
 ## 📌 Author
 
-- **Name:** Group work
+- **Name:** Group Work
 - **Institution:** NSBM Green University
 - **Module:** Networking and its Fundamentals
 
 ---
-
